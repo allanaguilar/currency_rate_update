@@ -11,12 +11,12 @@ msgstr ""
 "POT-Creation-Date: 2016-12-23 23:24+0000\n"
 "PO-Revision-Date: 2016-12-23 23:24+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2016\n"
-"Language-Team: Spanish (Costa Rica) (https://www.transifex.com/oca/teams/23907/es_CR/)\n"
+"Language-Team: Vietnamese (Viet Nam) (https://www.transifex.com/oca/teams/23907/vi_VN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: es_CR\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_company_auto_currency_up
@@ -42,17 +42,17 @@ msgstr ""
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_currency_rate_update_service_company_id
 msgid "Company"
-msgstr "Compañía"
+msgstr ""
 
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_currency_rate_update_service_create_uid
 msgid "Created by"
-msgstr "Creado por"
+msgstr "Tạo bởi"
 
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_currency_rate_update_service_create_date
 msgid "Created on"
-msgstr "Creado en"
+msgstr "Tạo vào"
 
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_currency_rate_update_service_currency_list
@@ -151,12 +151,12 @@ msgstr ""
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_currency_rate_update_service_write_uid
 msgid "Last Updated by"
-msgstr "Ultima actualización por"
+msgstr "Cập nhật lần cuối bởi"
 
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_currency_rate_update_service_write_date
 msgid "Last Updated on"
-msgstr "Ultima actualización en"
+msgstr "Cập nhật lần cuối vào"
 
 #. module: currency_rate_update
 #: model:ir.ui.view,arch_db:currency_rate_update.currency_rate_update_form
